@@ -37,5 +37,15 @@ This is a memory game built using Arduino Mega, a 16x2 I2C LCD display, buttons,
 ## 👨‍💻 Code
 The code is in `Game_code.ino`.
 
+## 💡 Instructions
+1. Copy the code to Arduino IDE
+2. Install the library for pakage:
+   AceWire(by Brian T. Park)
+   LiquidCrystal_I2C(by Frank de Brabander)
+3. Compile the code
+4. Plug in your Arduino Mega
+5. Choose Mega from board menu and choose the available port
+6. Then Upload the code
+
 ## 🎯 Created for:
 Hack Club's [Summer of Making](https://hackclub.com/summer-of-making/)
