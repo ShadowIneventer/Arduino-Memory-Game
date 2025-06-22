@@ -22,8 +22,6 @@ This is a memory game built using Arduino Mega, a 16x2 I2C LCD display, buttons,
 3. If correct: game levels up
 4. If wrong: game resets and displays score
 
-## 📸 Images / Demo
-Add photos or a video link here
 
 ## 🔧 Wiring (Pinout)
 | Component | Arduino Pin |
